@@ -26,9 +26,4 @@ This project helped me understand **DOM manipulation, event handling, and basic 
 
 - The counter value is stored in a JavaScript variable
 - Button clicks are handled using event listeners
-- The UI updates dynamically based on the counter value
-
----
-
-## 🔹 Project Structure
-
+- The UI updates dynamically based on the counter value.

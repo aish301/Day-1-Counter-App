@@ -1,6 +1,7 @@
 Counter App
 
-![Counter App Screenshot](images/Output-image.png)
+![Counter App Output](images/Output-image.png)
+
 
 A simple **Counter Application** built using **HTML, CSS, and JavaScript**.  
 This project helped me understand **DOM manipulation, event handling, and basic JavaScript logic**.

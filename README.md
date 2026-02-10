@@ -1,4 +1,4 @@
-Counter App
+# Counter App
 
 ![Counter App Output](images/Output-image.png)
 
